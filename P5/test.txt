@@ -1,0 +1,2 @@
+00001 A00     0 Cholera                                                      Cholera
+00002 A000    1 Cholera due to Vibrio cholerae 01, biovar cholerae           Cholera due to Vibrio cholerae 01, biovar cholerae

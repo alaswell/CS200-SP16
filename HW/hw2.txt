@@ -1,0 +1,33 @@
+Q1a:
+O(n)
+
+Q1b:
+O(n*log(n))
+
+Q1c:
+O(n)
+
+Q1d:
+O(n^2)
+
+Q1e:
+O(n*log(n))
+
+Q1f:
+O(log(n))
+
+Q2a:
+f. -> f(n) = f(n/2) + 1 
+
+Q2b:
+b. -> f(n) = 2*f(n/2) + n
+
+Q3a:
+rM(n) = 1 		for n = 1
+rM(n) = 2*rM(n/2) + 1 	for n > 1
+
+Q3b:
+O(n)
+
+Q4:
+f(n) = 1.2^n*250

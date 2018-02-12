@@ -1,0 +1,37 @@
+next line: [1 + 2]
+expression tree:
++
+ 1
+ 2
+result: 3.0
+next line: [1 - 2 + 3]
+expression tree:
++
+ -
+  1
+  2
+ 3
+result: 2.0
+next line: [1-(2+3)]
+expression tree:
+-
+ 1
+ +
+  2
+  3
+result: -4.0
+next line: [abs (4.5 - 6.700)]
+expression tree:
+abs
+ -
+  4.5
+  6.700
+result: 2.2
+next line: [3 /\ 2 \/ 1]
+expression tree:
+\/
+ /\
+  3
+  2
+ 1
+result: 1.0
